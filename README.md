@@ -10,13 +10,7 @@ I share my learning, progress, and solutions here for reference, practice, and c
 - **Platform:** FreeCodeCamp  
 - **Course:** Full Stack Developer  
 - **Certification:** Ongoing  
-- **Course Link:** [Full Stack Developer](https://www.freecodecamp.org/learn/full-stack-developer)  
-
-### 🎯 Progress Badges
-[![Course Progress](https://img.shields.io/badge/Progress-50%25-brightgreen?style=for-the-badge)]()  
-[![Projects Completed](https://img.shields.io/badge/Projects-10-blue?style=for-the-badge)]()  
-[![Daily Coding Streak](https://img.shields.io/badge/Daily_Streak-15_days-orange?style=for-the-badge)]()  
-
+- **Course Link:** [Full Stack Developer](https://www.freecodecamp.org/learn/full-stack-developer) 
 ---
 
 ## 📂 Repository Structure
