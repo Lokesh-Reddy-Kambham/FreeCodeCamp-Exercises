@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+    background-color: #DDE8F3;
+    gap:20px;
+    width: 500px;
+    padding:20px;
+    margin:80px auto;
+    border-bottom: 8px solid #8c6ac8;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.8);
+}
+.card-image{
+    width:auto;
+    height: 200px;
+    border-radius: 8px;
+}
+.card-content h2 {
+    margin: 0;
+    font-size: 22px;
+}
+.fonts{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #F8F9FB;
+}
