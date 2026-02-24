@@ -1,3 +1,5 @@
 .hintrc
 desktop.ini
 sample.html
+*.txt
+index.js
